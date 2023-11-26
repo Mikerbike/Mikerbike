@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mikerbike
 - 👀 I’m interested in bicycles, RC cars, and my dogs.
 - 🌱 I’m currently learning Git and Javascript.
-- 💞️ I’m looking to collaborate on...
+- 💞️ I am interested in designing, organizing, and following my new career road map. First stop: Front end developer.
 - 📫 How to reach me: mikerbike82@gmail.com
 
 <!---
